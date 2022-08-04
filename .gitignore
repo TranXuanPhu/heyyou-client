@@ -1,6 +1,6 @@
 .DS_Store
 node_modules/
-client/dist
+dist/
 client/public/images
 **/config/.env.development
 
